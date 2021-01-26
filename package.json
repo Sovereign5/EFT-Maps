@@ -1,0 +1,27 @@
+{
+  "name": "eft-maps",
+  "version": "1.0.0",
+  "description": "New and Improved version of the eft-maps fork",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "node": "^15.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sovereign5/EFT-Maps.git"
+  },
+  "author": "Christopher Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sovereign5/EFT-Maps/issues"
+  },
+  "homepage": "https://github.com/Sovereign5/EFT-Maps#readme"
+}
